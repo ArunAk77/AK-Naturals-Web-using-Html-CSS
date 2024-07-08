@@ -1,0 +1,123 @@
+body{
+
+    background-color: aquamarine;
+    background-image: url("https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?cs=srgb&dl=pexels-souvenirpixels-417074.jpg&fm=jpg");
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+header{
+    background-color: bisque;
+    background-image: url("https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width:100%;
+    padding: 25px;
+}
+#top{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    columns: 2;
+}
+#menu{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin: 10px;
+    padding: 20px;
+    justify-content: space-between;
+
+}
+#align{
+    padding-left: 70px;
+    
+}
+#img1{
+    padding: 20px;
+    background-color:black;
+    padding-bottom: 50px;
+}
+#title{
+    text-align: center;
+}
+#pgdiv,#pgdiv1,#pgdiv2{
+    background-color: aqua;
+    background-image: url("https://t3.ftcdn.net/jpg/06/88/72/30/360_F_688723077_y94G3xSVOzsNnKpL9guRVJlVebJtsUxW.jpg");
+    color: white;
+    font-size: 20px;    
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+#para{
+    font-size: 30px;
+    padding-top: 30px;
+}
+#box1{
+    background-image: url("https://images.pexels.com/photos/6759066/pexels-photo-6759066.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-color: aqua;
+    text-align: center;
+    margin: 70px;   
+    margin-left: 200;
+    padding: 50px;
+}
+#align{
+    columns: 2;
+    padding-right: 50px;
+    margin-left: 250px;
+}
+#btm1,#btm2,#btm3,#btm4{
+    position: relative;
+    color: white;
+    width: 150px;
+}
+#first{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 10px;
+    color: rgb(0, 0, 0);
+   }
+#sec{
+    margin: 50px;
+    padding: 50px;
+    border: 5px solid black;
+    background-color: aquamarine;
+    
+    }
+    #thir{
+        margin: 50px;
+        padding: 50px;
+        border: 5px solid black;
+        background-color: aquamarine;
+    }
+    #four{
+        margin: 50px;
+        padding: 50px;
+        border: 5px solid black;
+        background-color: aquamarine;
+    }
+    #five{
+        margin: 50px;
+        padding: 50px;
+        border: 5px solid black;
+        background-color: aquamarine;
+    }
+    #head{
+        text-align: center;
+    }
+    #btn{
+        background-color: gold;
+    }
+    #btn:hover{
+        color: bisque;
+        padding: 3px 10px;
+    }
+    h4{
+        color: rgb(0, 0, 0);
+        border: 1px solid black;
+        background-color: rgb(255, 255, 255);
+    }
+    #menu:hover{
+        color: blue;
+        padding: 10px;
+    }
+    
